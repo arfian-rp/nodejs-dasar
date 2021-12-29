@@ -1,0 +1,15 @@
+Hello World
+┌─────────┬───────────┐
+│ (index) │  Values   │
+├─────────┼───────────┤
+│    0    │  'sapi'   │
+│    1    │ 'kambing' │
+│    2    │  'domba'  │
+└─────────┴───────────┘
+Error: contohError
+    at file:///C:/Users/ARFIAN%20PRADANA/Documents/CODE_PROGRAM/NODEJS/22.console/index.mjs:19:11
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:281:24)
+    at async loadESM (node:internal/process/esm_loader:88:5)
+    at async handleMainPromise (node:internal/modules/run_main:65:12)
